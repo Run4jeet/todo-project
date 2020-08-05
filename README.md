@@ -1,1 +1,1 @@
-# todo-project
+# Java based todo-app-project
